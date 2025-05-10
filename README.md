@@ -75,9 +75,3 @@ For collaboration or queries, connect with me on LinkedIn.
 
 📄 License
 This project is licensed under the MIT License.
-
-vbnet
-Copy
-Edit
-
-You can copy and paste this into a `README.md` file, and it will render cleanly on GitHub with proper formatting, headings, and code blocks.
